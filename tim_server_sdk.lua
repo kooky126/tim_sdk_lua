@@ -41,7 +41,7 @@ function _M.hmacsha256(identifier, curr_time)
 end
 
 --生成 UserSig
---identifier为客户端省份
+--identifier为客户端身份
 function _M.gensig(identifier)
     local now = ngx.time()
     local m = {}
