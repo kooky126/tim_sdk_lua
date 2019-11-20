@@ -1,4 +1,4 @@
-# tim_sdk_lua
+# 腾讯云IM服务端 tim_sdk_lua
 tencent im server sdk by lua
 
 腾讯即时通信 IM（ https://cloud.tencent.com/document/product/269 ）服务端sdk基本功能的lua实现
